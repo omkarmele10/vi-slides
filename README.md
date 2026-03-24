@@ -45,8 +45,8 @@ Create a `.env` file in the `backend` directory (copy from `.env.example`):
 
 ```env
 PORT=5000
-MONGODB_URI=mongodb+srv://admin-1:WPJRVSrBMeJ31koh@cluster0.ve7mqil.mongodb.net/vi-slides?retryWrites=true&w=majority
-JWT_SECRET=7f3a9c2d8e1b4f6a9d0c3b8e5f2a7c1d9e4b6f8a2c5d7e1f3b9a0c6d8e2f4a1
+MONGODB_URI=
+JWT_SECRET=********************************************
 JWT_EXPIRE=7d
 NODE_ENV=development
 ```
